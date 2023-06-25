@@ -5,4 +5,12 @@ const friends: string[] = ['soykot', 'tamim',"musfiq"];
 friendSalaries[0] = 10500;
 friendSalaries.push(13500);
 friendSalaries[4] = ' 9480';
-friends.push('masrafi')
+friends.push('masrafi') 
+
+
+let max = 0;
+for(const salary of friendSalaries){
+    if(salary > max){
+        
+    }
+}
